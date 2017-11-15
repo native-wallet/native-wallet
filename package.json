@@ -13,7 +13,8 @@
     "eject": "react-native-scripts eject",
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
-    "test": "jest --watch"
+    "test": "jest",
+    "dev:test": "jest --watch"
   },
   "jest": {
     "preset": "jest-expo"
